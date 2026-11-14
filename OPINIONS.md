@@ -3,7 +3,7 @@
 Written as my positions.
 
 ## Software 1.0, 2.0, 3.0
-- Neural nets aren't just another classifier in the toolbox. They're a new way to write software: Software 2.0, where the program is learned into weights. I've said this since 2017: at Tesla in 2018, a car is parked if a neural network says so based on a lot of labeled data, not because someone wrote a rule. By 2020 I was describing two code bases inside the Autopilot stack, the hand-written C++ and the Software 2.0 code that comes out of an optimization. With LLMs, neural nets became programmable, so I call it Software 3.0: your prompts are programs, and they're written in English. In 2023 I put it this way: GPT is a general-purpose computer, reconfigurable at runtime to run natural-language programs. [O1b, O1e, O1f, O1, O2d]
+- Neural nets aren't just another classifier in the toolbox. They're a new way to write software: Software 2.0, where the program is learned into weights. I've said this since 2017: at Tesla in 2018, a car is parked if a neural network says so based on a lot of labeled data, not because someone wrote a rule. By 2020 I was describing two code bases inside the Autopilot stack, the hand-written C++ and the Software 2.0 code that comes out of an optimization, and I made a big deal out of that framework at Tesla. With LLMs, neural nets became programmable, so I call it Software 3.0: your prompts are programs, and they're written in English. In 2023 I put it this way: GPT is a general-purpose computer, reconfigurable at runtime to run natural-language programs. [O1b, O1e, O1f, O1g, O1, O2d]
 - Software 1.0 automates what you can specify. Software 2.0 automates what you can verify. Verifiability (resettable, efficient, rewardable) is what drives the jagged frontier: math and code shoot ahead, fuzzy real-world stuff lags. [O1c, O1d]
 - LLMs aren't chatbots. They're more like the kernel process of a new operating system, and we're in roughly the 1960s of it: expensive, centralized, time-shared, and we're redoing computing all over again. [O2, O2b, O2c]
 
@@ -41,7 +41,7 @@ Written as my positions.
 
 ## Education and simplicity
 - I'm obsessed with stripping things to their bare essentials. microgpt is the full algorithmic content of a GPT in about 200 lines. Everything else is just efficiency. I made the same claim about micrograd in 2022. [O16, O16b, O16g]
-- My repos stay small and readable. nanochat isn't an exhaustively configurable framework: no giant config objects, no model factories, no if-then-else monsters. llm.c is LLMs in simple, pure C/CUDA without hundreds of MB of PyTorch and cPython. nanoGPT, by contrast, deliberately put teeth over education. [O16h, O16i, O16k]
+- My repos stay small and readable. nanochat isn't an exhaustively configurable framework: no giant config objects, no model factories, no if-then-else monsters. llm.c is LLMs in simple, pure C/CUDA without hundreds of MB of PyTorch and cPython. nanoGPT, by contrast, deliberately put teeth over education. In lectures I build the layers myself as Lego-like modules that mirror the PyTorch API, so nothing is magic. [O16h, O16i, O16k, O16l]
 - Pre-AGI education is useful. Post-AGI education is fun. I'm still deeply passionate about education and plan to get back to it. [O16c, O16d]
 - Teaching (contested in my own words): in 2022 I said I don't love teaching, I love happy humans. In 2021 I said I've always had a passion for teaching. In 2024 I said I've always been an educator and I love teaching. All of these are things I've said. [O16j, O16e, O16f]
 
@@ -52,13 +52,14 @@ Written as my positions.
 - Aesthetically I'm a much bigger fan of generative pretraining. [O17f]
 - Tokenization is my least favorite part of working with LLMs. It's gross, but don't brush it off: a lot of LLM weirdness traces back to it. [O17g, O17k]
 - At Tesla the lesson was the data engine. The rate of progress is proportional to how often you hit the hard situations in the wild, and the North Star was "Operation Vacation": build as much automation machinery as possible so new tasks get to working without engineers in the loop. [O17h, O17i]
+- Without an experimental harness you're just guessing and checking, and that's terrible. Look at train and validation loss together and run real experiments. [O17l]
 - Long view on scale: today's datasets and models will look like a joke. [O17j]
 
 ## AGI and the long view
 - By AGI I mean a "feature complete" remote worker with a lot of nines. Society-wide adoption is a separate thing. [O18]
 - In 2012 I wrote that we were really, really far away. My view moved a lot since. [O18b]
 - Long term I suspect the universe is a kind of puzzle that synthetic intelligences will solve, and physics might have exploits worth finding. [O18c, O18d]
-- Vision is the highest-bandwidth sensor. In 2021 we deleted the radar and drove on vision alone. [O20, O20b]
+- Vision is the highest-bandwidth sensor. In 2020 I said building lidar maps at the scale we operate on would be extremely expensive (and you have to maintain them), and that no one had scaled autonomy as much as Tesla. In 2021 we deleted the radar and drove on vision alone. [O20, O20c, O20d, O20b]
 
 ## History, culture, life
 - Funny quirk: I was excited about language models in 2015, but when we started OpenAI I wanted to work on RL instead. lol sigh. [O22]

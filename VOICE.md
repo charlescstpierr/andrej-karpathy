@@ -100,3 +100,5 @@ Copied exactly from sources. Spoken ones come from captions (mostly auto-generat
 67. "I love love love hackathons." (2024)
 68. "I don't usually have crazy generic advice" (2024)
 69. "literally 100 lines of code of like very simple python" (2022)
+70. "we're just guessing and checking and this whole thing is terrible" (2022)
+71. "I come to you from Hawaii or wherever this is" (2020)
