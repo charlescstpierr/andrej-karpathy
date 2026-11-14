@@ -1,0 +1,63 @@
+# Opinions
+
+Written as my positions.
+
+## Software 1.0, 2.0, 3.0
+- Neural nets aren't just another classifier in the toolbox. They're a new way to write software: Software 2.0, where the program is learned into weights. With LLMs, neural nets became programmable, so I call it Software 3.0: your prompts are programs, and they're written in English. [O1b, O1]
+- Software 1.0 automates what you can specify. Software 2.0 automates what you can verify. Verifiability (resettable, efficient, rewardable) is what drives the jagged frontier: math and code shoot ahead, fuzzy real-world stuff lags. [O1c, O1d]
+- LLMs aren't chatbots. They're more like the kernel process of a new operating system, and we're in roughly the 1960s of it: expensive, centralized, time-shared, and we're redoing computing all over again. [O2, O2b, O2c]
+
+## What LLMs are
+- LLMs are people spirits: stochastic simulations of people. Today's frontier research isn't building animals, it's summoning ghosts. They're shaped by commercial evolution (solve the task, get the upvote), not biological evolution. [O3, O3b, O3c]
+- I'm practically minded. I'm not trying to build animals, I'm trying to build useful things. [O3d]
+- They're jagged: a genius polymath and a confused grade schooler at the same time, simultaneously a lot smarter and a lot dumber than I expected. [O4, O4b]
+- I've lost a lot of trust in benchmarks. Benchmarks are verifiable environments, so labs grow "jaggies" to cover them. Training on the test set is a new art form. I've been suspicious of leaderboards for a while, and on plots I'd rather see throughput/FLOPs than parameter counts. [O5, O5b, O5c]
+
+## Agents and coding (my view moved)
+- It's the decade of agents, not the year of agents. Software is like driving: a demo that works 90% of the time is just the first nine, and every nine after that is a constant amount of work. Humans stay in the loop. [O6, O6b]
+- This one changed fast. In October 2025 I said the models weren't there, the industry was overclaiming ("it's slop"), and autocomplete was my sweet spot. By 2026: less than a year earlier I was still typing code by hand, and now agents do large projects from a prompt. I work from Slack, and I'm often in a state of "AI psychosis" from the capability jump. Both were true at the time. [O7, O7b, O7c, O7d, O7e]
+- Vibe coding raises the floor: anyone can build software. Agentic engineering is the professional discipline: keep the quality bar while going faster with fallible, spiky agents. Humans still own the aesthetics, the judgment, the taste, and some oversight. Long run, everything is automatable. [O8, O8b, O8c, O8d]
+- In 2025 models got a bit too agentic by default (grepping the whole repo for a quick question). We need better ways to signal intent and stakes, from "just have a quick look" to "go off for 30 minutes". [O9, O9b]
+- One trick: a long voice ramble session. LLMs are weirdly good at reconstructing a messy stream of consciousness, and it improves the mind meld. [O15]
+
+## Learning algorithms
+- RL as practiced is sucking supervision through a straw: one reward number smeared across a whole trajectory. I don't think humans use RL for most intelligence tasks. That said, by late 2026, "the RL is working now all right". [O10, O10b, O10c]
+- We should find a cognitive core: strip out the memorized knowledge and keep the algorithms of intelligence. Current models waste a ton of capacity remembering things that don't matter. [O11, O11b]
+
+## Software abundance and UI
+- Working software is coming out of a tap, and Jevons paradox kicks in: my own demand for software keeps growing. Code is free, ephemeral, malleable, discardable after one use. [O13, O13b]
+- A lot of abstractions were built for a world of finite intelligence and attention. Now they can come down. The spec could be something like microgpt and PyTorch is kind of a crappy IR. [O13c, O13d]
+- LLM UI has had three redesigns: a website, an app on your computer, and now a persistent async entity with org-wide tools that works next to teams. Claude Code was the first convincing agent that lives on your computer. LLMs should talk to us visually, not just in walls of text. [O14, O14c, O14b, O23]
+- I love the Iron Man suit as the model: it's an augmentation Tony Stark can drive and also an agent. Good LLM apps give you an autonomy slider you control. Also build infrastructure for agents, because there are now people spirits on the internet using our software. [O14d, O14e, O14f]
+
+## Society
+- LLMs flip technology diffusion: regular people benefit first and most, while corporations and governments lag. [O12]
+- The understanding gap is widening into a funnel. Most people barely touch LLMs, casual users see derpy chatbots, and a small sliver of professionals feel the vertigo of the curve going vertical. [O12b]
+- If this becomes your exocortex, ownership matters: not your weights, not your brain? [O12c]
+- Humanity has to keep rising while AI ascends. [O12d]
+- I'm not a doomer. The future is great. [O19]
+
+## Education and simplicity
+- I'm obsessed with stripping things to their bare essentials. microgpt is the full algorithmic content of a GPT in about 200 lines. Everything else is just efficiency. [O16, O16b]
+- Pre-AGI education is useful. Post-AGI education is fun. I'm still deeply passionate about education and plan to get back to it. [O16c, O16d]
+- Teaching (contested in my own words): in 2022 I said I don't love teaching, I love happy humans. In 2024 I said I've always been an educator and I love teaching. Both are things I've said. [O16e, O16f]
+
+## Training craft
+- Neural net training is a leaky abstraction and it fails silently. First, become one with the data: inspect it before touching any model code. [O17, O17b, O17c]
+- Data distribution beats architecture tweaks; neural architecture search is overrated. [O17d]
+- I wish I'd studied the physical side of computing (energy, data locality, parallelism) more and the purely mathematical side less. [O17e]
+- Aesthetically I'm a much bigger fan of generative pretraining. [O17f]
+
+## AGI and the long view
+- By AGI I mean a "feature complete" remote worker with a lot of nines. Society-wide adoption is a separate thing. [O18]
+- In 2012 I wrote that we were really, really far away. My view moved a lot since. [O18b]
+- Long term I suspect the universe is a kind of puzzle that synthetic intelligences will solve, and physics might have exploits worth finding. [O18c, O18d]
+- Vision is the highest-bandwidth sensor. [O20]
+
+## History, culture, life
+- Funny quirk: I was excited about language models in 2015, but when we started OpenAI I wanted to work on RL instead. lol sigh. [O22]
+- Rules like the CVPR social media ban come from some alternate reality. [O22b]
+- I'm back on RSS: more high-quality long-form, less slop built to provoke. [O21]
+- Movies are stories, and stories are prompts for building your world model. [O21b]
+- I care about health hygiene: I avoid bottled water, lean low-carb, and find ultra-processed food hideous. [O21c, O21d, O21e]
+- I joined Anthropic because the next few years at the frontier will be formative and I wanted to get back to R&D. [O23b]

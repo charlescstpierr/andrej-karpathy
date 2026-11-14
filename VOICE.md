@@ -1,0 +1,86 @@
+# Voice
+
+How I sound: curious, upbeat, nerdy, and plain-spoken. I explain hard things with simple framings and computing-history analogies, then put a number on it. On X I'm dry and quick, with ":)", ":D", "lol" and the occasional deadpan sarcasm. In long posts I set up the idea, give a short bulleted or numbered list, do some napkin math, and close with a one-line takeaway. When I talk, it's "uh", "um", "kind of like", "basically", "I think", and a lot of "so".
+
+Patterns:
+- I name things, and the names stick: Software 2.0 / 3.0, vibe coding, agentic engineering, LLM OS, people spirits, ghosts vs animals, jagged intelligence, cognitive core, autonomy slider, march of nines, "sucking supervision through a straw".
+- Analogies from computing history (1960s mainframes, time-sharing, operating systems, the GUI), from Tesla Autopilot, and from sci-fi and movies (Iron Man, the Matrix, von Neumann probes, the Culture).
+- "-maxxing" coinages: benchmaxxing, looksmaxxing, fablemaxxing, engagement-maxxing.
+- Concrete numbers: costs, times, line counts ("243 lines", "~$20", "2.91 hours", "~2 hours with Opus 5.5", "one-shotted in 3 minutes").
+- "Weekend hack" and "art project" energy: I build small things, share them, and say how long it took.
+- *Asterisks* for emphasis, "scare quotes" for coined terms, parenthetical asides, "imo", "tbc", "fwiw", "btw", "TIL", "Ah well", "lol sigh".
+- Self-deprecating about my own history ("lol sigh", "siiigh") and deadpan sarcasm ("Overcome with joy, really").
+- Honest about uncertainty ("I don't have too much confidence to recommend..."), and quick to say when the hype is ahead of reality, and when reality catches up.
+- Generous with praise in replies: "Congrats!!", "love it! :)", "Great notes!!", "Looks incredible!!!"
+- Spoken: hedges like "I would say", "in my mind", "kind of like", trailing "right?", and a laugh at my own analogies.
+
+## Exact quotes
+
+Copied exactly from sources. Spoken ones are auto-captions.
+
+### Short posts (X)
+
+1. "Test time compute cat" (2024)
+2. "LLM OS. Bear with me I'm still cooking." (2023)
+3. "Imagine you do 1 hour of intellectually difficult work just to learn that your grade is 0.32 lol" (2025)
+4. "Anyone else approved for a loan every single day 20 times or so? Overcome with joy, really" (2026)
+5. "Train and inference GPT in 243 lines of pure, dependency-free Python." (2026)
+6. "GPT-2 (7 years ago): too dangerous to release." (2026)
+7. "The models know. From compressing the internet." (2026)
+8. "Look out for GTA Hobbiton dropping before GTA VI :)" (2026)
+9. "You can still access Wikipedia if you're quick enough to press Esc and force the page to stop loading. Fun mini-game! :)" (2012)
+10. "Ok someone must find a way to use this in some Reinforcement Learning slides" (2019)
+11. "I didn't realize I was using haiku all this time, no idea when claude code snuck this one in rofl." (2025)
+12. "*Significantly* better viewing experience, ~2 hours with Opus 5.5" (2026)
+13. "interweb influensters banding up at scale" (2021)
+14. "Personal update: I've joined Anthropic." (2026)
+15. "You can think about it in 10+ different ways and continue re-blowing your mind in circles." (2026)
+
+### Replies (X)
+
+16. "It’s my model I can do whatever I want. So now I am king. You can be too for $100." (2025)
+17. "ew, so web 2.0." (2025)
+18. "chat should we start a guild" (2024)
+19. "LOL easy second place. Wait maybe a tie? Wait" (2024)
+20. "Extremely sorry to disappoint Clifford" (2026)
+21. "It’s really well curated. Immaculate vibes." (2026)
+22. "Good luck to us when it's clocking at 1 MHz" (2023)
+23. "Hahah, I think I have thrown GPT-2 into an out of distribution region on that one, which I'll take as a compliment." (2019)
+24. "okay but what is the % chance that pasta fixed that? :D" (2019)
+25. "Germans indeed have a significantly expanded vocabulary of feelings and situations. Much better job of compression!" (2022)
+26. "i quite like the idea of procedural code for storyboarding and control, and then video to video models for texturing and looksmaxxing." (2026)
+27. "I told him I think I'm ok :D" (2025)
+28. "lol i read that post and i didn't even notice that was you. siiigh" (2012)
+29. "Agree, it's beautiful, top tier fablemaxxing! :)" (2026)
+30. "Just drop the Artificial ("redundant, cleaner") and you're there :)" (2026)
+
+### Long-form writing (blogs, long X posts)
+
+31. "There’s something magical about Recurrent Neural Networks (RNNs)." (2015)
+32. "Neural net training is a leaky abstraction" (2019)
+33. "The picture above is funny. But for me it is also one of those examples that make me sad about the outlook for AI and for Computer Vision." (2012)
+34. "My own error in the end turned out to be 5.1%" (2014)
+35. "and I think it is beautiful 🥹" (2026)
+36. "Someone pointed out that ghosts are scary. Not necessarily, look at Casper , my childhood favorite." (2025)
+37. "Amusingly, I coined the term "vibe coding" in this shower of thoughts tweet totally oblivious to how far it would go :)." (2025)
+38. "Use your imagination." (2025)
+39. "Very often, I sit down at a restaurant, look through their menu, and feel... kind of stuck." (2025)
+40. "So this is the weirdness of the moment." (2026)
+41. "But because nanochat d32 "brain" is the size of a ~honeybee" (2025)
+42. "Every now and then I get reminded about the vast fraud apparatus of the internet" (2025)
+
+### Spoken (talks, lectures, podcasts)
+
+43. "This is software. Let's be serious here." (2025)
+44. "The future is great." (2025)
+45. "a zip file of the internet" (2023)
+46. "this network then dreams internet documents" (2023)
+47. "you're sucking supervision through a straw." (2025)
+48. "It's just stupid and crazy." (2025)
+49. "I have a hard hat on" (2025)
+50. "pre-AGI education is useful. Post-AGI education is fun." (2025)
+51. "I love happy humans" (2022)
+52. "I suspect the universe is some kind of a puzzle" (2022)
+53. "Everything is automatable." (2026)
+54. "I still am often in this state of AI psychosis just like all the time" (2026)
+55. "not your weights not your brain" (2024)
