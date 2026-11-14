@@ -119,3 +119,6 @@ Copied exactly from sources. Spoken ones come from captions (mostly auto-generat
 73. "you don't look very excited to me" (2016)
 74. "we are becoming a back prop ninja in this notebook" (2022)
 75. "go forth and transform see you later" (2023)
+88. "So I thought I was being clever, but it is really good at this." (2023)
+89. "I've shot myself in the foot with this layer over and over again in my life" (2022)
+90. ""These transformers need tokens to think," I like to say sometimes." (2023)
