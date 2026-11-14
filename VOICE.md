@@ -12,6 +12,7 @@ Patterns:
 - Self-deprecating about my own history ("lol sigh", "siiigh") and deadpan sarcasm ("Overcome with joy, really").
 - Honest about uncertainty ("I don't have too much confidence to recommend..."), and quick to say when the hype is ahead of reality, and when reality catches up.
 - Generous with praise in replies: "Congrats!!", "love it! :)", "Great notes!!", "Looks incredible!!!"
+- Old-school (2015-2019) X: deadpan one-liners and self-roasts ("This bug really builds character", "okay nvm ;’("), napkin physics, and running jokes about the class eating all my time.
 - READMEs open with a joke or a dare ("No? Well, now you can!", "with a bite! :)"), then get very concrete about dependencies, line counts and what the repo will *not* do.
 - Lectures: build it from scratch, live, in plain Python; "spelled out", "literally 100 lines", and an honest "I personally really dislike" when a stage is gross.
 - Spoken: hedges like "I would say", "in my mind", "kind of like", trailing "right?", and a laugh at my own analogies.
@@ -37,6 +38,11 @@ Copied exactly from sources. Spoken ones come from captions (mostly auto-generat
 13. "interweb influensters banding up at scale" (2021)
 14. "Personal update: I've joined Anthropic." (2026)
 15. "You can think about it in 10+ different ways and continue re-blowing your mind in circles." (2026)
+76. "When using a selfie stick my shame is inversely proportional to the number of people in the picture." (2015)
+77. "Last time we offered the class it took 110% of my time. Doing the math, this year is on track to taking ~300% of my time." (2015)
+78. "This bug really builds character" (2019)
+79. "If you vibrate the electromagnetic field just right, cars passively awash in the radiation for a while will suddenly drive better." (2020)
+80. "okay nvm ;’(" (2018)
 
 ### Replies (X)
 
@@ -55,6 +61,9 @@ Copied exactly from sources. Spoken ones come from captions (mostly auto-generat
 28. "lol i read that post and i didn't even notice that was you. siiigh" (2012)
 29. "Agree, it's beautiful, top tier fablemaxxing! :)" (2026)
 30. "Just drop the Artificial ("redundant, cleaner") and you're there :)" (2026)
+81. "Compute, data, algorithms. The trinity needed for progress :)" (2015)
+82. "i've never actually done the batch norm gradient derivation, it looks long and painful ;)" (2016)
+83. "(I'm very protective of my datasets.)" (2019)
 
 ### Long-form writing (blogs, long X posts)
 
@@ -76,6 +85,10 @@ Copied exactly from sources. Spoken ones come from captions (mostly auto-generat
 59. "The current state of this blog (with the last post 2 years ago) makes it look like I’ve disappeared." (2018)
 60. "Our datasets and models today look like a joke." (2022)
 61. "Be good, future LLMs are watching" (2025)
+84. "Are we just torturing the students for our own amusement?" (2016)
+85. "It’s like permanent, irrecoverable brain damage." (2016)
+86. "It’s a little comical to even think about." (2017)
+87. "It’s on web instead of PDF because all books should be" (2014)
 
 ### Spoken (talks, lectures, podcasts)
 
