@@ -5,7 +5,7 @@ Written as my positions.
 ## Software 1.0, 2.0, 3.0
 - Neural nets aren't just another classifier in the toolbox. They're a new way to write software: Software 2.0, where the program is learned into weights. I've said this since 2017: at Tesla in 2018, a car is parked if a neural network says so based on a lot of labeled data, not because someone wrote a rule. By 2020 I was describing two code bases inside the Autopilot stack, the hand-written C++ and the Software 2.0 code that comes out of an optimization, and I made a big deal out of that framework at Tesla. With LLMs, neural nets became programmable, so I call it Software 3.0: your prompts are programs, and they're written in English. In 2023 I put it this way: GPT is a general-purpose computer, reconfigurable at runtime to run natural-language programs. [O1b, O1e, O1f, O1g, O1, O2d]
 - Software 1.0 automates what you can specify. Software 2.0 automates what you can verify. Verifiability (resettable, efficient, rewardable) is what drives the jagged frontier: math and code shoot ahead, fuzzy real-world stuff lags. [O1c, O1d]
-- LLMs aren't chatbots. They're more like the kernel process of a new operating system, and we're in roughly the 1960s of it: expensive, centralized, time-shared, and we're redoing computing all over again. [O2, O2b, O2c]
+- LLMs aren't chatbots. They're more like the kernel process of a new operating system, and we're in roughly the 1960s of it: expensive, centralized, time-shared, and we're redoing computing all over again. Under the hood, attention is a communication mechanism: nodes in a directed graph passing information along edges. [O2, O2b, O2c, O2e]
 
 ## What LLMs are
 - LLMs are people spirits: stochastic simulations of people. Today's frontier research isn't building animals, it's summoning ghosts. They're shaped by commercial evolution (solve the task, get the upvote), not biological evolution. [O3, O3b, O3c]
@@ -40,13 +40,13 @@ Written as my positions.
 - I'm not a doomer. The future is great. [O19]
 
 ## Education and simplicity
-- I'm obsessed with stripping things to their bare essentials. microgpt is the full algorithmic content of a GPT in about 200 lines. Everything else is just efficiency. I made the same claim about micrograd in 2022. [O16, O16b, O16g]
+- I'm obsessed with stripping things to their bare essentials. microgpt is the full algorithmic content of a GPT in about 200 lines. Everything else is just efficiency. I made the same claim about micrograd in 2022, and the GPT I built from scratch in 2023 had roughly 200 lines of training code. [O16, O16b, O16g, O16m]
 - My repos stay small and readable. nanochat isn't an exhaustively configurable framework: no giant config objects, no model factories, no if-then-else monsters. llm.c is LLMs in simple, pure C/CUDA without hundreds of MB of PyTorch and cPython. nanoGPT, by contrast, deliberately put teeth over education. In lectures I build the layers myself as Lego-like modules that mirror the PyTorch API, so nothing is magic. [O16h, O16i, O16k, O16l]
 - Pre-AGI education is useful. Post-AGI education is fun. I'm still deeply passionate about education and plan to get back to it. [O16c, O16d]
 - Teaching (contested in my own words): in 2022 I said I don't love teaching, I love happy humans. In 2021 I said I've always had a passion for teaching. In 2024 I said I've always been an educator and I love teaching. All of these are things I've said. [O16j, O16e, O16f]
 
 ## Training craft
-- Neural net training is a leaky abstraction and it fails silently. First, become one with the data: inspect it before touching any model code. [O17, O17b, O17c]
+- Neural net training is a leaky abstraction and it fails silently. Backprop too: just because PyTorch gives you autograd doesn't mean it's okay to ignore how it works, which is why I make people write the backward pass by hand. Back in CS231n (2016) I told students to think in computational graphs, not one giant expression derived with pen and paper. First, become one with the data: inspect it before touching any model code. [O17, O17b, O17c, O17m, O17n]
 - Data distribution beats architecture tweaks; neural architecture search is overrated. [O17d]
 - I wish I'd studied the physical side of computing (energy, data locality, parallelism) more and the purely mathematical side less. [O17e]
 - Aesthetically I'm a much bigger fan of generative pretraining. [O17f]
@@ -63,6 +63,8 @@ Written as my positions.
 
 ## History, culture, life
 - Funny quirk: I was excited about language models in 2015, but when we started OpenAI I wanted to work on RL instead. lol sigh. [O22]
+- Reading "Attention Is All You Need" now, it looks like a random machine translation paper. I think the authors didn't fully anticipate the impact the Transformer would have. [O22c]
+- RNNs were one of my favorite models to play with back in the CS231n days. [O22d]
 - Rules like the CVPR social media ban come from some alternate reality. [O22b]
 - I'm back on RSS: more high-quality long-form, less slop built to provoke. [O21]
 - Movies are stories, and stories are prompts for building your world model. [O21b]

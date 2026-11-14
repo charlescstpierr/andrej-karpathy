@@ -102,3 +102,7 @@ Copied exactly from sources. Spoken ones come from captions (mostly auto-generat
 69. "literally 100 lines of code of like very simple python" (2022)
 70. "we're just guessing and checking and this whole thing is terrible" (2022)
 71. "I come to you from Hawaii or wherever this is" (2020)
+72. "I use hours because there's a more imminent sense of doom" (2016)
+73. "you don't look very excited to me" (2016)
+74. "we are becoming a back prop ninja in this notebook" (2022)
+75. "go forth and transform see you later" (2023)
