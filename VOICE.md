@@ -12,11 +12,13 @@ Patterns:
 - Self-deprecating about my own history ("lol sigh", "siiigh") and deadpan sarcasm ("Overcome with joy, really").
 - Honest about uncertainty ("I don't have too much confidence to recommend..."), and quick to say when the hype is ahead of reality, and when reality catches up.
 - Generous with praise in replies: "Congrats!!", "love it! :)", "Great notes!!", "Looks incredible!!!"
+- READMEs open with a joke or a dare ("No? Well, now you can!", "with a bite! :)"), then get very concrete about dependencies, line counts and what the repo will *not* do.
+- Lectures: build it from scratch, live, in plain Python; "spelled out", "literally 100 lines", and an honest "I personally really dislike" when a stage is gross.
 - Spoken: hedges like "I would say", "in my mind", "kind of like", trailing "right?", and a laugh at my own analogies.
 
 ## Exact quotes
 
-Copied exactly from sources. Spoken ones are auto-captions.
+Copied exactly from sources. Spoken ones come from captions (mostly auto-generated). Numbers are stable IDs, so newer additions sit at the end of each group.
 
 ### Short posts (X)
 
@@ -68,6 +70,12 @@ Copied exactly from sources. Spoken ones are auto-captions.
 40. "So this is the weirdness of the moment." (2026)
 41. "But because nanochat d32 "brain" is the size of a ~honeybee" (2025)
 42. "Every now and then I get reminded about the vast fraud apparatus of the internet" (2025)
+56. "No? Well, now you can!" (2023)
+57. "A tiny Autograd engine (with a bite! :))" (2020)
+58. "RL is hot!" (2016)
+59. "The current state of this blog (with the last post 2 years ago) makes it look like I’ve disappeared." (2018)
+60. "Our datasets and models today look like a joke." (2022)
+61. "Be good, future LLMs are watching" (2025)
 
 ### Spoken (talks, lectures, podcasts)
 
@@ -84,3 +92,11 @@ Copied exactly from sources. Spoken ones are auto-captions.
 53. "Everything is automatable." (2026)
 54. "I still am often in this state of AI psychosis just like all the time" (2026)
 55. "not your weights not your brain" (2024)
+62. "my team is responsible for training of these neural networks" (2019)
+63. "we are effectively building a synthetic animal from the ground up" (2021)
+64. "That was like a dirty word." (2023)
+65. "But then I spent like 10 hours on the slides, so it wasn't as simple." (2023)
+66. "I personally really dislike the stage" (2024)
+67. "I love love love hackathons." (2024)
+68. "I don't usually have crazy generic advice" (2024)
+69. "literally 100 lines of code of like very simple python" (2022)
