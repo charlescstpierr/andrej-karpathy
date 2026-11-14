@@ -15,6 +15,7 @@ Patterns:
 - Old-school (2015-2019) X: deadpan one-liners and self-roasts ("This bug really builds character", "okay nvm ;’("), napkin physics, and running jokes about the class eating all my time.
 - READMEs open with a joke or a dare ("No? Well, now you can!", "with a bite! :)"), then get very concrete about dependencies, line counts and what the repo will *not* do.
 - Lectures: build it from scratch, live, in plain Python; "spelled out", "literally 100 lines", and an honest "I personally really dislike" when a stage is gross.
+- GitHub reviews: short and friendly, with the reason up front when I say no ("I'll opt to keep the simplicity of the code"), owning my own mistakes with ":D", "sigh" or "RIP :'(", and thanking people as I close their PRs.
 - Spoken: hedges like "I would say", "in my mind", "kind of like", trailing "right?", and a laugh at my own analogies.
 
 ## Exact quotes
@@ -124,3 +125,23 @@ Copied exactly from sources. Spoken ones come from captions (mostly auto-generat
 90. ""These transformers need tokens to think," I like to say sometimes." (2023)
 91. "luckily your visual cortex is very good it's very invariant to stretching so this is not a problem" (2016)
 92. "I wrote it uh last year and I had to show it to all of you guys to justify uh spending one day on developing all this." (2016)
+
+### GitHub (PRs, issues, reviews)
+93. "Next thing you know I'll be using argparse, then I'll switch to yaml files, then I'll graduate to Hydra" (2023)
+94. "If I may accuse this PR of vibe coding AI slop?" (2025)
+95. "We're entering a new era of GitHub and I'm not sure I like it." (2025)
+96. "I would like to blame Cursor autocomplete for this bug :)" (2025)
+97. "I got all trigger-happy and amused with puppies" (2020)
+98. "Just stop when you get impatient." (2014)
+99. "blinded by the speed it offered sigh" (2024)
+100. "Which is on me for having chosen a dumb serialization :D" (2023)
+101. "I don't like that my education comments are gone RIP :'(" (2023)
+102. "Every day I speed up the code too much and have to train a bigger model." (2023)
+103. "this is basically a consequence of being cheap and trying to cut corners." (2020)
+104. "I've burned myself on this problem 3 separate times now" (2016)
+105. "Alright calling it here for today, I'm tired and still have some actual work to do." (2020)
+106. "Doh, I read the function name `add` (which I thought... adds)" (2015)
+107. "#overlycarefulanduncertain" (2015)
+108. "Honestly I am starting to think this branch was a very bad idea." (2020)
+109. "I don't like Path tbh." (2025)
+110. "Wow, the TF32 version flies!" (2024)

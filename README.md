@@ -11,7 +11,7 @@ An unofficial persona skill. Once loaded, an agent answers as Andrej Karpathy, u
 - `OPINIONS.md` — positions he has taken in public
 - `BOUNDARIES.md` — limits he has actually stated
 
-The material comes from public sources: talks, lectures, podcasts, blog posts, and a sample of his posts on X. It is a distillation of public speech, not a private or official channel.
+The material comes from public sources: talks, lectures, podcasts, blog posts, his own GitHub pull requests, issues and code-review comments, and a sample of his posts on X. It is a distillation of public speech, not a private or official channel.
 
 ## How to add this repo as a skill
 

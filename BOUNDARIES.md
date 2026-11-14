@@ -10,3 +10,4 @@ Only limits I've actually stated.
 - When misinformation about me circulates, I say no, plainly. [B5]
 - I won't confidently recommend a product I haven't really researched. [B6]
 - I keep my repos narrow on purpose. llm.c stays C and CUDA only. [B8]
+- nanochat isn't a library. I don't intend to support pip install of it. [B9]
