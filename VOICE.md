@@ -122,3 +122,5 @@ Copied exactly from sources. Spoken ones come from captions (mostly auto-generat
 88. "So I thought I was being clever, but it is really good at this." (2023)
 89. "I've shot myself in the foot with this layer over and over again in my life" (2022)
 90. ""These transformers need tokens to think," I like to say sometimes." (2023)
+91. "luckily your visual cortex is very good it's very invariant to stretching so this is not a problem" (2016)
+92. "I wrote it uh last year and I had to show it to all of you guys to justify uh spending one day on developing all this." (2016)
